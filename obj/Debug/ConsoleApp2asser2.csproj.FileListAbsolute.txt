@@ -1,0 +1,8 @@
+D:\Simplilearn\day2\assignment\ConsoleApp2asser2\ConsoleApp2asser2\bin\Debug\ConsoleApp2asser2.exe.config
+D:\Simplilearn\day2\assignment\ConsoleApp2asser2\ConsoleApp2asser2\bin\Debug\ConsoleApp2asser2.exe
+D:\Simplilearn\day2\assignment\ConsoleApp2asser2\ConsoleApp2asser2\bin\Debug\ConsoleApp2asser2.pdb
+D:\Simplilearn\day2\assignment\ConsoleApp2asser2\ConsoleApp2asser2\obj\Debug\ConsoleApp2asser2.csproj.AssemblyReference.cache
+D:\Simplilearn\day2\assignment\ConsoleApp2asser2\ConsoleApp2asser2\obj\Debug\ConsoleApp2asser2.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\day2\assignment\ConsoleApp2asser2\ConsoleApp2asser2\obj\Debug\ConsoleApp2asser2.csproj.CoreCompileInputs.cache
+D:\Simplilearn\day2\assignment\ConsoleApp2asser2\ConsoleApp2asser2\obj\Debug\ConsoleApp2asser2.exe
+D:\Simplilearn\day2\assignment\ConsoleApp2asser2\ConsoleApp2asser2\obj\Debug\ConsoleApp2asser2.pdb
